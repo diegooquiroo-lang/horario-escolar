@@ -1,0 +1,314 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Horario Escolar Diego//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Horario escolar 2026-2027
+X-WR-TIMEZONE:America/Mexico_City
+BEGIN:VEVENT
+UID:20260907-0700-LenguayC@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260907T070000
+DTEND;TZID=America/Mexico_City:20260907T075000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Lengua y Comunicación I
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260907-0900-Dinámicaa@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260907T090000
+DTEND;TZID=America/Mexico_City:20260907T095000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Dinámica aplicada
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260907-1000-Dinámicaa@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260907T100000
+DTEND;TZID=America/Mexico_City:20260907T105000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Dinámica aplicada
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260907-1100-CulturaDi@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260907T110000
+DTEND;TZID=America/Mexico_City:20260907T115000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Cultura Digital I
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260907-1300-Pensamient@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260907T130000
+DTEND;TZID=America/Mexico_City:20260907T135000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Pensamiento Matemático I
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260907-1400-Pensamient@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260907T140000
+DTEND;TZID=America/Mexico_City:20260907T145000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Pensamiento Matemático I
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260908-0700-CienciasN@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260908T070000
+DTEND;TZID=America/Mexico_City:20260908T075000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Ciencias Naturales\, Experimentales y Tecnología
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260908-0800-CienciasN@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260908T080000
+DTEND;TZID=America/Mexico_City:20260908T085000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Ciencias Naturales\, Experimentales y Tecnología
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260908-0900-InglésI@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260908T090000
+DTEND;TZID=America/Mexico_City:20260908T095000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Inglés I
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260908-1000-InglésI@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260908T100000
+DTEND;TZID=America/Mexico_City:20260908T105000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Inglés I
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260908-1100-LenguayC@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260908T110000
+DTEND;TZID=America/Mexico_City:20260908T115000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Lengua y Comunicación I
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260908-1300-CienciasS@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260908T130000
+DTEND;TZID=America/Mexico_City:20260908T135000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Ciencias Sociales I
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260908-1400-CienciasS@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260908T140000
+DTEND;TZID=America/Mexico_City:20260908T145000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Ciencias Sociales I
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260909-0700-CulturaDi@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260909T070000
+DTEND;TZID=America/Mexico_City:20260909T075000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Cultura Digital I
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260909-0800-MentoríaI@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260909T080000
+DTEND;TZID=America/Mexico_City:20260909T085000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Mentoría I
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260909-0900-Desarrollo@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260909T090000
+DTEND;TZID=America/Mexico_City:20260909T095000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Desarrollo Humano I
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260909-1000-Desarrollo@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260909T100000
+DTEND;TZID=America/Mexico_City:20260909T105000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Desarrollo Humano I
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260909-1200-Pensamient@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260909T120000
+DTEND;TZID=America/Mexico_City:20260909T125000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Pensamiento Matemático I
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260909-1300-Pensamient@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260909T130000
+DTEND;TZID=America/Mexico_City:20260909T135000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Pensamiento Filosófico y Humanidades
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260909-1400-Pensamient@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260909T140000
+DTEND;TZID=America/Mexico_City:20260909T145000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Pensamiento Filosófico y Humanidades
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910-0700-CienciasN@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260910T070000
+DTEND;TZID=America/Mexico_City:20260910T075000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Ciencias Naturales\, Experimentales y Tecnología
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910-0800-CienciasN@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260910T080000
+DTEND;TZID=America/Mexico_City:20260910T085000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Ciencias Naturales\, Experimentales y Tecnología
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910-0900-Laboratori@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260910T090000
+DTEND;TZID=America/Mexico_City:20260910T095000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Laboratorio de Investigación
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910-1000-Laboratori@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260910T100000
+DTEND;TZID=America/Mexico_City:20260910T105000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Laboratorio de Investigación
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910-1100-CulturaDi@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260910T110000
+DTEND;TZID=America/Mexico_City:20260910T115000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Cultura Digital I
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910-1300-Pensamient@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260910T130000
+DTEND;TZID=America/Mexico_City:20260910T135000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Pensamiento Matemático I
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910-1400-Pensamient@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260910T140000
+DTEND;TZID=America/Mexico_City:20260910T145000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Pensamiento Matemático I
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911-0700-InglésI@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260911T070000
+DTEND;TZID=America/Mexico_City:20260911T075000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Inglés I
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911-0800-InglésI@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260911T080000
+DTEND;TZID=America/Mexico_City:20260911T085000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Inglés I
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911-0900-InglésI@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260911T090000
+DTEND;TZID=America/Mexico_City:20260911T095000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Inglés I
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911-1000-Laboratori@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260911T100000
+DTEND;TZID=America/Mexico_City:20260911T105000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Laboratorio de Investigación
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911-1100-LenguayC@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260911T110000
+DTEND;TZID=America/Mexico_City:20260911T115000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Lengua y Comunicación I
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911-1300-Ajedrez@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260911T130000
+DTEND;TZID=America/Mexico_City:20260911T135000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Ajedrez
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911-1400-Ajedrez@horario-escolar
+DTSTART;TZID=America/Mexico_City:20260911T140000
+DTEND;TZID=America/Mexico_City:20260911T145000
+RRULE:FREQ=WEEKLY;UNTIL=20270726T235959
+SUMMARY:Ajedrez
+LOCATION:Universidad Mondragón México, Querétaro
+DESCRIPTION:Horario escolar. Grupo Eskinkos 7.
+END:VEVENT
+END:VCALENDAR
